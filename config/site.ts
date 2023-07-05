@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
   description: "Unlock the secrets of any website",
   mainNav: [],
   links: {
-    twitter: "https://twitter.com/nolansym",
-    github: "https://github.com/Jordan-Gilliam/ai-template",
+    twitter: "https://twitter.com/ChongKai0828",
+    github: "https://github.com/jacobvo888/ai-template",
   },
 }

@@ -1,41 +1,32 @@
 <h1 align="center">Mercury</h4>
 
-
 <h4 align="center">
 
-<img width="800" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/merc-search.png" alt="">
+<img width="800" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-search.png" alt="">
 </h4>
 
 <h4 align="center">
-<img width="200" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/logo-down-indigo.webp" alt="">
+<img width="200" src="https://github.com/jacobvo888/readme-assets/blob/master/logo-down-indigo.webp" alt="">
 
 </h4>
-
-
-
-
-
-
-
 
 ## Chat with any Document or Website
+
 > Train your own custom GPT
 
 - Train on specific websites that you define
 - Train on documents you upload
-- Builds on dialog with Chat History 
+- Builds on dialog with Chat History
 - Cites sources
 - [Perplexity](https://www.perplexity.ai/) style UI
 
 <h2 align="center">
   <br>
-<img width="1000" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/merc-read-1.png" alt="">
+<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-read-1.png" alt="">
 </h2>
 
-
-
-
 #### Supported Files
+
 - [x] .pdf
 - [x] .docx
 - [x] .md
@@ -46,18 +37,14 @@
 - [x] .json
 
 #### Coming Soon
+
 - [ ] .csv
 - [ ] .pptx
 - [ ] notion
 - [ ] next 13 app dir
 - [ ] vercel ai sdk
 
-
-
-
 ## Train
-
-
 
 #### 1. Upload: `/api/embed-file`
 
@@ -73,10 +60,8 @@
 
 <h4 align="center">
   <br>
-<img width="1000" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/merc-dark-train.png" alt="">
+<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-dark-train.png" alt="">
 </h4>
-
-
 
 ## Query
 
@@ -87,25 +72,19 @@
 - The results of the similarity search are used to construct a prompt for GPT-3.
 - The GTP-3 response is then streamed back to the user.
 
-
 <h4 align="center">
   <br>
-<img width="1000" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/merc-2.gif" alt="">
+<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-2.gif" alt="">
 </h4>
 
-
 ## Getting Started
-
-
-
-
 
 ### 1. Clone Repo and Install Deps
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit https://github.com/Jordan-Gilliam/ai-template ai-template
+npx degit https://github.com/jacobvo888/ai-template ai-template
 ```
 
 ```bash
@@ -119,15 +98,14 @@ code .
 npm i
 ```
 
-
 ### 2. Set-up Pinecone
 
 - Visit [pinecone](https://pinecone.io/) to create a free tier account and from the dashboard.
 - Create a new Pinecone Index with Dimensions `1536`
-eg: 
+eg:
 <h4 align="">
   <br>
-<img width="700" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/merc-pinecone.png" alt="">
+<img width="700" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-pinecone.png" alt="">
 </h4>
 
 - Copy your API key
@@ -137,7 +115,7 @@ eg:
 ### 3. Set-up OpenAi API
 
 - Visit [openai](https://platform.openai.com/account/api-keys) to create and copy your API key
-> You can find this in the OpenAI web portal under `API Keys`
+  > You can find this in the OpenAI web portal under `API Keys`
 
 ### 4. Open the `.env.local` file and configure your environment
 
@@ -153,7 +131,6 @@ PINECONE_API_KEY="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx"
 PINECONE_ENVIRONMENT="us-central1-gcp"
 PINECONE_INDEX_NAME="mercury"
 ```
-
 
 ### 5. Start the app
 
@@ -177,14 +154,12 @@ Open http://localhost:3000 in your browser to view the app.
 
 <h2 align="center">
   <br>
-  <a href="https://github.com/Jordan-Gilliam/ai-template"><img width="700" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/merc-light.png" alt=""></a>
+  <a href="https://github.com/jacobvo888/ai-template"><img width="700" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-light.png" alt=""></a>
 </h2>
-
 
 ## Inspiration:
 
-> 🍴 Huge thanks to [@gannonh](https://github.com/gannonh) and [@mayooear](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) for their fantastic work that helped inspire this template. 
-
+> 🍴 Huge thanks to [@gannonh](https://github.com/gannonh) and [@mayooear](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) for their fantastic work that helped inspire this template.
 
 - https://www.perplexity.ai/
 - https://builtbyjesse.com/
