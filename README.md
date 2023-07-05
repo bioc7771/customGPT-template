@@ -2,11 +2,11 @@
 
 <h4 align="center">
 
-<img width="800" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-search.png" alt="">
+<img width="800" src="https://github.com/jacobvo888/readme-assets/blob/main/merc-search.png" alt="">
 </h4>
 
 <h4 align="center">
-<img width="200" src="https://github.com/jacobvo888/readme-assets/blob/master/logo-down-indigo.webp" alt="">
+<img width="200" src="https://github.com/jacobvo888/readme-assets/blob/main/logo-down-indigo.webp" alt="">
 
 </h4>
 
@@ -22,7 +22,7 @@
 
 <h2 align="center">
   <br>
-<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-read-1.png" alt="">
+<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/main/merc-read-1.png" alt="">
 </h2>
 
 #### Supported Files
@@ -60,7 +60,7 @@
 
 <h4 align="center">
   <br>
-<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-dark-train.png" alt="">
+<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/main/merc-dark-train.png" alt="">
 </h4>
 
 ## Query
@@ -74,7 +74,7 @@
 
 <h4 align="center">
   <br>
-<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-2.gif" alt="">
+<img width="1000" src="https://github.com/jacobvo888/readme-assets/blob/main/merc-2.gif" alt="">
 </h4>
 
 ## Getting Started
@@ -105,7 +105,7 @@ npm i
 eg:
 <h4 align="">
   <br>
-<img width="700" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-pinecone.png" alt="">
+<img width="700" src="https://github.com/jacobvo888/readme-assets/blob/main/merc-pinecone.png" alt="">
 </h4>
 
 - Copy your API key
@@ -154,7 +154,7 @@ Open http://localhost:3000 in your browser to view the app.
 
 <h2 align="center">
   <br>
-  <a href="https://github.com/jacobvo888/ai-template"><img width="700" src="https://github.com/jacobvo888/readme-assets/blob/master/merc-light.png" alt=""></a>
+  <a href="https://github.com/jacobvo888/ai-template"><img width="700" src="https://github.com/jacobvo888/readme-assets/blob/main/merc-light.png" alt=""></a>
 </h2>
 
 ## Inspiration:
